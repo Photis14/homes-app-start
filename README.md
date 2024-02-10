@@ -40,7 +40,7 @@ git clone https://github.com/Photis14/homes-app-start.git
 Change into the project directory with:
 
 ```bash
-cd homes-app-start-repo
+cd homes-app-start
 ```
 
 ### 4. Install Dependencies
